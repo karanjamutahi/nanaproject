@@ -13,6 +13,12 @@
         </v-btn>
       </nuxt-link>
 
+      <nuxt-link to='/oldlogin' class="noDec float-right">
+        <v-btn id="j" class="gradientBtn">
+          <span>CHECK IN/OUT</span> 
+        </v-btn>
+      </nuxt-link>
+
       <nuxt-link to='/everything' class="noDec float-right">
         <v-btn id="PrettyBtn" class="gradientBtn">
           <span>ADMINS</span> 
